@@ -1,4 +1,28 @@
-<h2 align="left">Hi 👋! My name is Łukasz</h2>
+<h1 align="left">Hi 👋! My name is Łukasz</h1>
+
+<h2 align="left">💻 Aspiring Web Developer</h2>
+
+I'm a beginner programmer passionate about building engaging and dynamic web applications. My focus is on front-end development, and I'm constantly learning and improving my skills.
+<h2 align="left">🌐 Tech Stack:</h2>
+
+- Vue.js: Creating interactive and reactive user interfaces.
+- JavaScript: Bringing functionality and life to web pages.
+- HTML: Structuring web content effectively.
+- CSS: Designing visually appealing and responsive layouts.
+
+<h2 align="left">🚀 What I Do:</h2>
+
+- Developing web applications with a focus on user experience and performance.
+- Exploring new technologies and best practices in web development.
+- Building projects to enhance my skills and contribute to the community.
+  
+<h2 align="left">🎯 Goals:</h2>
+
+- Master front-end development and expand into full-stack.
+- Collaborate on open-source projects and learn from the community.
+- Continuously grow as a developer and create impactful applications.
+
+---
 
 ###
 
