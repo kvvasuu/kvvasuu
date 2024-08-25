@@ -34,7 +34,7 @@
 
 <h2 align="left">💻 Aspiring Web Developer</h2>
 
-I'm a beginner programmer passionate about building engaging and dynamic web applications. My focus is on front-end development, and I'm constantly learning and improving my skills.
+I'm a programmer passionate about building engaging and dynamic web applications. My focus is on front-end development, and I'm constantly learning and improving my skills.
 <h2 align="left">🌐 Tech Stack:</h2>
 
 - Vue.js: Creating interactive and reactive user interfaces.
