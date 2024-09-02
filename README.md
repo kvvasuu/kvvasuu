@@ -21,7 +21,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=vue,sass,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,sass,js,html,css,node)](https://skillicons.dev)
 
 ###
 
@@ -38,6 +38,7 @@ I'm a programmer passionate about building engaging and dynamic web applications
 <h2 align="left">🌐 Tech Stack:</h2>
 
 - Vue.js: Creating interactive and reactive user interfaces.
+- Node.js: I am currently learning and creating scripts that help me in my work.
 - JavaScript: Bringing functionality and life to web pages.
 - HTML: Structuring web content effectively.
 - CSS: Designing visually appealing and responsive layouts.
