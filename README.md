@@ -39,11 +39,11 @@
 I'm a programmer passionate about building engaging and dynamic web applications. My focus is on front-end development, and I'm constantly learning and improving my skills.
 <h2 align="left">🌐 Tech Stack:</h2>
 
-- Vue.js: Creating interactive and reactive user interfaces.
-- Node.js: I am currently learning and creating scripts that help me in my work.
-- JavaScript: Bringing functionality and life to web pages.
+- Vue.js: Creating interactive and reactive user interfaces. (Options API, Composition API, Vuex, Router)
+- Node.js: I am currently learning and creating scripts that help me in my work. (Express.js)
+- JavaScript: Bringing functionality and life to web pages. (ES6)
 - HTML: Structuring web content effectively.
-- CSS: Designing visually appealing and responsive layouts.
+- CSS: Designing visually appealing and responsive layouts. (SaSS, Tailwind)
 
 <h2 align="left">🚀 What I Do:</h2>
 
