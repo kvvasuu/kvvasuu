@@ -21,9 +21,9 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=vue,sass,js,html,css,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,react,nodejs,vite,tailwind,firebase)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,tailwind,ai,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ai,ps)](https://skillicons.dev)
 
 ###
 
@@ -36,10 +36,11 @@
 
 <h2 align="left">💻 Aspiring Web Developer</h2>
 
-I'm a programmer passionate about building engaging and dynamic web applications. My focus is on front-end development, and I'm constantly learning and improving my skills. I live by the "No zero days" mindset, which drives me to make progress, no matter how small, every single day.
+I'm a programmer passionate about building engaging and dynamic web applications. My focus is on front-end development, and I have advanced expertise in Vue.js. Currently, I'm expanding my skills by learning React. I live by the "No zero days" mindset, which drives me to make progress, no matter how small, every single day.
 <h2 align="left">🌐 Tech Stack:</h2>
 
 - Vue.js: Creating interactive and reactive user interfaces. (Options API, Composition API, Vuex, Router)
+- React: Currently learning React to expand my front-end development skills.
 - Node.js: I am currently learning and creating scripts that help me in my work. (Express.js)
 - JavaScript: Bringing functionality and life to web pages. (ES6)
 - HTML: Structuring web content effectively.
