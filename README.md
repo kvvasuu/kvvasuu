@@ -41,7 +41,7 @@ I'm a programmer passionate about building engaging and dynamic web applications
 
 - Vue.js: Creating interactive and reactive user interfaces. (Options API, Composition API, Router, Vuex, Pinia)
 - React: Currently learning React to expand my front-end development skills.
-- Node.js: I am currently learning and creating scripts that help me in my work. (Express.js)
+- Node.js: Building efficient server-side applications. (Express.js).
 - JavaScript/TypeScript: Bringing functionality and life to web pages. Currently using TypeScript to enhance my code scalability and maintainability. (ES6, TypeScript)
 - HTML: Structuring web content effectively.
 - CSS: Designing visually appealing and responsive layouts. (SaSS, Tailwind, Bootstrap)
