@@ -23,7 +23,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vue,react,nodejs,vite,tailwind,firebase,express,figma,php)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,ai,ps,mongodb,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,ai,ps,mongodb,wordpress)](https://skillicons.dev)
 
 ###
 
