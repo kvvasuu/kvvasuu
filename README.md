@@ -37,27 +37,18 @@
 
 <h2 align="left">💻 Aspiring Web Developer</h2>
 
-I'm a programmer passionate about building engaging and dynamic web applications. My focus is on front-end development, and I have advanced expertise in Vue.js. Currently, I'm expanding my skills by learning React and TypeScript. I live by the "No zero days" mindset, which drives me to make progress, no matter how small, every single day.
+I'm a programmer passionate about building engaging and dynamic web applications. My focus is on front-end development, and I have advanced expertise in Vue.js. I live by the "No zero days" mindset, which drives me to make progress, no matter how small, every single day.
 <h2 align="left">🌐 Tech Stack:</h2>
 
 - Vue.js: Creating interactive and reactive user interfaces. (Options API, Composition API, Router, Vuex, Pinia)
-- React: Currently learning React to expand my front-end development skills.
+- React: Currently using React to expand my front-end development skills.
 - Node.js: Building efficient server-side applications. (Express.js).
 - JavaScript/TypeScript: Bringing functionality and life to web pages. Currently using TypeScript to enhance my code scalability and maintainability. (ES6, TypeScript)
-- HTML: Structuring web content effectively.
 - CSS: Designing visually appealing and responsive layouts. (SaSS, Tailwind, Bootstrap)
 
 <h2 align="left">🚀 What I Do:</h2>
 
-- Developing web applications with a focus on user experience and performance.
-- Exploring new technologies and best practices in web development.
-- Building projects to enhance my skills and contribute to the community.
-  
-<h2 align="left">🎯 Goals:</h2>
-
-- Master front-end development and expand into full-stack.
-- Collaborate on open-source projects and learn from the community.
-- Continuously grow as a developer and create impactful applications.
+Currently, I'm focused on working full-time as a developer, which means my personal projects have taken a back seat. However, I still commit updates from time to time whenever I find a moment to build or experiment with something new.
 
 
 
