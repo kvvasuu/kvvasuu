@@ -8,8 +8,6 @@
 
 ###
 
-###
-
 <div align="left">
   <a href="https://www.instagram.com/kvvasu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -21,35 +19,31 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react,nodejs,vite,tailwind,firebase,express,figma,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,nodejs,vite,tailwind,firebase,express,figma,apple)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,ai,ps,mongodb,threejs)](https://skillicons.dev)
-
-
-###
-
-###
-
-<br>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,ai,ps,mongodb,vue,androidstudio)](https://skillicons.dev)
 
 ---
 
+<h2 align="left">💻 Front-End Developer | React & 3D Enthusiast</h2>
 
-<h2 align="left">💻 Aspiring Web Developer</h2>
+I'm a developer passionate about crafting modern, engaging, and interactive applications for both web and mobile.  
+My current focus is on **React**, **Next.js**, and **TypeScript**, where I build scalable and maintainable front-end architectures.  
+I also develop **mobile apps** using **React Native** and explore **3D technologies** with **Three.js**, creating immersive experiences that push the boundaries of traditional web design.  
+Driven by the *“No zero days”* mindset, I’m always learning, experimenting, and growing as a developer.
 
-I'm a programmer passionate about building engaging and dynamic web applications. My focus is on front-end development, and I have advanced expertise in Vue.js. I live by the "No zero days" mindset, which drives me to make progress, no matter how small, every single day.
 <h2 align="left">🌐 Tech Stack:</h2>
 
-- Vue.js: Creating interactive and reactive user interfaces. (Options API, Composition API, Router, Vuex, Pinia)
-- React: Currently using React to expand my front-end development skills.
-- Node.js: Building efficient server-side applications. (Express.js).
-- JavaScript/TypeScript: Bringing functionality and life to web pages. Currently using TypeScript to enhance my code scalability and maintainability. (ES6, TypeScript)
-- CSS: Designing visually appealing and responsive layouts. (SaSS, Tailwind, Bootstrap)
+- **React / Next.js / Vue:** Building fast, dynamic, and SEO-friendly interfaces.  
+- **React Native:** Creating performant mobile applications for Android and iOS.  
+- **Three.js:** Developing interactive 3D visuals and experiences for the web.  
+- **TypeScript / JavaScript (ES6+):** Writing scalable and maintainable code.  
+- **Node.js / Express:** Building efficient backend APIs.  
+- **CSS / Tailwind / SaSS:** Designing responsive and aesthetic user interfaces.  
 
 <h2 align="left">🚀 What I Do:</h2>
 
-Currently, I'm focused on working full-time as a developer, which means my personal projects have taken a back seat. However, I still commit updates from time to time whenever I find a moment to build or experiment with something new.
+Currently, I’m focusing on full-time development work while continuing to expand my knowledge in 3D web technologies and performance optimization.  
+Whenever I find the time, I contribute to personal projects that combine design, interactivity, and innovation.
 
-
-
-
+---
