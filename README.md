@@ -1,10 +1,5 @@
 <h1 align="left">Hi 👋! My name is Łukasz</h1>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kvvasuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" align="left" />
-</div>
 
 ###
 
@@ -30,7 +25,6 @@
 I'm a developer passionate about crafting modern, engaging, and interactive applications for both web and mobile.  
 My current focus is on **React**, **Next.js**, and **TypeScript**, where I build scalable and maintainable front-end architectures.  
 I also develop **mobile apps** using **React Native** and explore **3D technologies** with **Three.js**, creating immersive experiences that push the boundaries of traditional web design.  
-Driven by the *“No zero days”* mindset, I’m always learning, experimenting, and growing as a developer.
 
 <h2 align="left">🌐 Tech Stack:</h2>
 
